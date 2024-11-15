@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { ethers } from 'ethers';
 import GameHistory from './GameHistory';
 
-const CONTRACT_ADDRESS = "YOUR_SMART_CONTRACT_ADDRESS";
+const CONTRACT_ADDRESS = "0xf7c1a179E9D5d7b9EdeC026A10b6DAf3de6B77b6";
 const ABI = [...]; // Add your contract ABI here
 
 function App() {
